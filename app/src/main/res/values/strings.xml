@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="info">Приложение разработал: \n студент группы ПР-23, Комаров Иван.</string>
+    <string name="data">Выдано: 27.02.2023</string>
+    <string name="buttonText">Нажми меня!</string>
+    <string name="kratno">Вы нажали четное количество раз!</string>
+    <string name="neKratno">Вы нажали не четное количество раз!</string>
+</resources>
